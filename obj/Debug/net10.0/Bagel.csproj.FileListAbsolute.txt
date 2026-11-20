@@ -1,0 +1,16 @@
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.exe
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.deps.json
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.runtimeconfig.json
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.runtimeconfig.dev.json
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.dll
+C:\Users\Faraz\Desktop\CODE\Bagel\bin\Debug\net10.0\Bagel.pdb
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.AssemblyInfoInputs.cache
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.AssemblyInfo.cs
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.csproj.CoreCompileInputs.cache
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.dll
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\refint\Bagel.dll
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.pdb
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.genruntimeconfig.cache
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\ref\Bagel.dll
+C:\Users\Faraz\Desktop\CODE\Bagel\obj\Debug\net10.0\Bagel.csproj.Up2Date
